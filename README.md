@@ -1,7 +1,8 @@
 # Worm-Game-JS-Classes
 
 Game is created using JavaScript. 
-All of the necessary classes are implemted and the frames are adjusting to your browser fps.
+All of the necessary classes are implemented and the frames are adjusting to your computer power.
+Adjusting fps gives the best performance
 
 Feel free to use and modify.
 
